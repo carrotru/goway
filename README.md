@@ -10,6 +10,7 @@
 | `intro.mp4` | 片頭影片（片頭A 壓縮版，約 1 MB） |
 | `logo.jpg` | 節目 Logo |
 | `line-qr.png` | 報名用 LINE QR code |
+| `ep1.jpg` – `ep6.jpg` | 第一季各集縮圖 |
 
 ## 操作方式
 
